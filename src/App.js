@@ -17,7 +17,7 @@ function App() {
             </p>
           </div>
           <div>
-            <a href="/" className='text-br-orange bg-white py-4 px-8 rounded-full font-lexend'>Learn More</a>
+            <a href="/" className='text-br-orange bg-white py-4 px-8 rounded-full font-lexend hover:bg-transparent hover:text-white hover:border-2 hover:border-white'>Learn More</a>
           </div>
         </article>
         <article className='w-full h-1/3 lg:w-1/3 lg:h-full bg-dark-cyan p-14 flex flex-col justify-between'>
@@ -32,7 +32,7 @@ function App() {
             </p>
           </div>
           <div>
-            <a href="/" className='text-dark-cyan bg-white py-4 px-8 rounded-full font-lexend'>Learn More</a>
+            <a href="/" className='text-dark-cyan bg-white py-4 px-8 rounded-full font-lexend hover:bg-transparent hover:text-white hover:border-2 hover:border-white'>Learn More</a>
           </div>
         </article>
         <article className='w-full h-1/3 lg:w-1/3 lg:h-full bg-very-dark-cyan p-14 flex flex-col justify-between'>
@@ -47,7 +47,7 @@ function App() {
             </p>
           </div>
           <div>
-            <a href="/" className='text-very-dark-cyan bg-white py-4 px-8 rounded-full font-lexend'>Learn More</a>
+            <a href="/" className='text-very-dark-cyan bg-white py-4 px-8 rounded-full font-lexend hover:bg-transparent hover:text-white hover:border-2 hover:border-white'>Learn More</a>
           </div>
         </article>
       </div>
